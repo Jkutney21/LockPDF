@@ -33,15 +33,15 @@ A sleek Windows context menu tool that instantly password-protects your PDF file
 ### Method 1: Git Clone (Recommended)
 ```bash
 # Clone the repository
-git clone https://github.com/jkutn/lockpdf.git
-cd lockpdf
+git clone https://github.com/Jkutney21/LockPDF.git
+cd LockPDF
 
 # Run the installer as Administrator
 install.bat
 ```
 
 ### Method 2: Download ZIP
-1. 📥 [Download the latest release](https://github.com/jkutn/lockpdf/releases)
+1. 📥 [Download the latest release](https://github.com/Jkutney21/LockPDF/releases)
 2. 📂 Extract to any folder (e.g., `C:\Tools\lockpdf\`)
 3. 🖱️ Right-click `install.bat` → **"Run as administrator"**
 4. ✅ Follow the installation prompts
@@ -103,7 +103,7 @@ MIT License - Feel free to use, modify, and distribute.
 
 **Made with ❤️ for secure PDF handling**
 
-[![Stars](https://img.shields.io/github/stars/jkutn/lockpdf?style=social)](https://github.com/jkutn/lockpdf)
-[![Issues](https://img.shields.io/github/issues/jkutn/lockpdf)](https://github.com/jkutn/lockpdf/issues)
+[![Stars](https://img.shields.io/github/stars/Jkutney21/LockPDF?style=social)](https://github.com/Jkutney21/LockPDF)
+[![Issues](https://img.shields.io/github/issues/Jkutney21/LockPDF)](https://github.com/Jkutney21/LockPDF/issues)
 
 </div>
